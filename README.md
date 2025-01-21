@@ -6,7 +6,7 @@
 - **View Task**
 - **Edit Tasks**
 - **Update**
-## How too run the project
+## How to run the project
 clone the repository
 ```
   git clone https://github.com/sujinbabups/task-management.git
